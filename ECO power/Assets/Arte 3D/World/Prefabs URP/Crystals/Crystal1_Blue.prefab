@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4618858569617606}
   - component: {fileID: 33338354380611184}
   - component: {fileID: 23690051491569916}
+  - component: {fileID: 3189566586871457365}
   m_Layer: 0
   m_Name: Crystal1_Blue
   m_TagString: Untagged
@@ -83,3 +84,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &3189566586871457365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1760879259629068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76d888e30e232e9429f17c74caee33db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  elemento: 
+  entro:
+    m_PersistentCalls:
+      m_Calls: []
+  salio:
+    m_PersistentCalls:
+      m_Calls: []
